@@ -1,0 +1,6 @@
+{
+    "BOT_TOKEN": "Токен вашего бота",
+    "ADMIN_ID": 123456789,
+    "GREETING_TEXT": "Добро пожаловать! Здесь будет ваш приветственный текст.",
+    "GREETING_IMAGE_URL": "https://te.legra.ph/file/7583432e191c2898542eb.jpg"
+}
